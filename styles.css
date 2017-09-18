@@ -17,11 +17,31 @@ h2 {
 }
 
 .navigate {
-	background-color: green;
-	opacity: .3;
-	text-color: orange;
+	background-color: black;
+	opacity: .9;
+	color: orange;
 }
 
 a {
-	color: pink;
+	color: purple;
+}
+
+#top {
+	background-color: yellow;
+	
+}
+
+body {
+	background-color: gray;
+}
+
+nav ul {
+	text-align: center;
+	padding: 0;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-right: 1em;
+	font-size: 0.75em;
 }
