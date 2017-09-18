@@ -1,0 +1,27 @@
+p {
+	margin-top:20px;
+	margin-bottom:50px;
+	margin-right:150px;
+	margin-left:80px;
+
+}
+
+img {
+	border-radius: 8px;	
+	max-width:500px;
+	max-height:auto;
+}
+
+h2 {
+	
+}
+
+.navigate {
+	background-color: green;
+	opacity: .3;
+	text-color: orange;
+}
+
+a {
+	color: pink;
+}
